@@ -1,16 +1,18 @@
-## Hi there 👋
+## John C. Jones, Ph.D.
 
-<!--
-**jonesj39/jonesj39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Assistant Professor, School of Life Sciences and Sustainability
+College of Humanities and Sciences, Virginia Commonwealth University
 
-Here are some ideas to get you started:
+### Research Interests
+- Urban Food Systems
+- Public Policy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+- 📧 jonesj39@vcu.edu
+- 🏛️ Trani Center for Life Sciences, Room 102
+- 🔗 [VCU Faculty Profile](https://slss.vcu.edu/directory/jones.html)
+- 🎓 [Google Scholar](https://scholar.google.com/citations?user=yT3ruakAAAAJ&hl=en)
+
+---
+
+This page collects research code, data, and project materials related to my work in urban food systems and public policy.
