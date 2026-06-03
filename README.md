@@ -37,8 +37,6 @@ Agriculture Research and Education (SARE) program.
 
 - Jones, J. C., Linkous, L., Mathews-Ailsworth, L., Vazquez-Miller, R., Chance, E., Carter, J., & Saneda, I. (2024). Smart Little Campus Food Pantries: Addressing food insecurity at Virginia Commonwealth University. *Journal of Agriculture, Food Systems, and Community Development, 13*(3), 135–151. https://doi.org/10.5304/jafscd.2024.133.016
 
-- Cameron, A., Jones, J. C., Thomas, L., & Hastings, E. Mapping a greener future: How GIS enhances urban agriculture initiatives. <!-- add venue, volume, and year -->
-
 Full list: [Google Scholar](https://scholar.google.com/citations?user=yT3ruakAAAAJ&hl=en)
 
 ### In the News
