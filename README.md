@@ -16,16 +16,15 @@ food access on urban university campuses and in the broader Richmond region.
 ### Featured Projects
 
 **Little Ram Pantries** — https://littlerampantries.com/
-A network of free, outdoor "little pantries" on VCU's campus aimed at
+A network of decentralized, anonymous "little pantries" on VCU's campus aimed at
 normalizing emergency food assistance and advancing the idea that food
-is a human right. Launched with a VCU Health Equity Grant and developed
-in part through service-learning courses.
+is a human right. Initially launched with internal funding.
 
 **Ram Fridges / RVA Community Fridges** — https://rvacommunityfridges.com/
 A campus refrigerator network that diverts unsold food from dining
 services to students, addressing food waste and food insecurity together.
-Supported by a three-year, ~$500,000 grant from the USDA Sustainable
-Agriculture Research and Education (SARE) program.
+Supported by funding USDA Sustainable Agriculture Research and Education 
+(SARE) and state-level pass-through funding from US EPA.
 
 ### Selected Publications
 
