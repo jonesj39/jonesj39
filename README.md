@@ -6,7 +6,7 @@ College of Humanities and Sciences, Virginia Commonwealth University
 I use a trans-disciplinary  lens rooted in social sciences to study urban 
 food systems and public policy, with a focus on food insecurity, food waste, 
 and community-engaged research. Much of my work centers on designing, 
-deploying, and studying interventions that improve food access on urban 
+deploying, and studying interventions that improve food access at urban 
 university campuses and in the broader Richmond region.
 
 ### Research Interests
